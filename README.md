@@ -1,4 +1,4 @@
 # Homework01
-Homework 1: Setup &amp; Rounding Error
+Here's my homework 1
 
-Click on Homework_01.ipynb above to access the homework assignment.
+-Greyson Voigt
